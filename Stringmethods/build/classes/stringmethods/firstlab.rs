@@ -1,0 +1,2 @@
+stringfunctions.firstlab
+stringmethods.Stringmethods
